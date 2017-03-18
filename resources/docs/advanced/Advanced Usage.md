@@ -1,4 +1,4 @@
-#Advanced Usage
+# Advanced Usage
 
 Whilst implementing Skin Shortcuts in a basic way is relatively easy, the script has a lot of advanced options to either provide more features to your users, or to customise the experience provided to them.
 
