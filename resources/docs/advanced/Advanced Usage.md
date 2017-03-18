@@ -8,7 +8,7 @@ Many of these options are based on providing an 'overrides.xml' file with your s
 
 Details of how to use Skin Shortcuts to let the user select from a range of available backgrounds or browse for an image, and integrate this into your skin.
 
-[Read More](`./Managing backgrounds.md`)
+[Read More]('./Managing backgrounds.md')
 
 ## Managing widgets
 
